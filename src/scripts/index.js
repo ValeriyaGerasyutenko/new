@@ -1,3 +1,10 @@
 import '../styles/index.scss';
+import {work} from 'class.js';
 
-console.log('webpack starterkit');
+let toDo;
+
+//window.addEventListener("load", () => {
+//  toDo = new ToDoClass();
+//});
+
+console.log(work);
